@@ -7,9 +7,9 @@ This repository is a record of the codes I have learnd and generated
 
 import data.py
 
-#导入不同类型的数据批量生成excel 目前类型：.txt、.tdms 可自定义数据导入位置、方向。可批量改文件、sheet名
+#导入不同类型的数据批量生成excel 目前类型：.txt、.tdms 可自定义数据导入位置、方向。可批量改文件、sheet名;自定义标记单元格（字体、颜色）
 
-#import different kinds of data to generate an excel doc; data type(to date): .txt&.tdms; custimized data-importing position&direction&doc's name; 
+#import different kinds of data to generate an excel doc; data type(to date): .txt&.tdms; custimized data-importing position&direction&doc's name& specific table cell marking(font style&background color)
 
 macro via python.py
 
