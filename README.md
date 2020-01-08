@@ -14,4 +14,4 @@ import data.py
 macro via python.py
 
 #承上，批量对指定文件执行宏，实现自动化处理数据；特点：一次处理一个文件，处理完即保存并关闭，避免占用内存。
-# do macro of VBA via python code to different excel with only one click; automatic data-manipulating; advantage : do the task in order not simultaneously to prevent RAM from running out.
+#do macro of VBA via python code to different excel with only one click; automatic data-manipulating; advantage : do the task in order not simultaneously to prevent RAM from running out.
